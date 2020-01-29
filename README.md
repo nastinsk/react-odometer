@@ -1,1 +1,1 @@
-# react-odometer
+# Odometer with React
