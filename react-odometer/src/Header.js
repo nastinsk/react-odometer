@@ -8,7 +8,7 @@ class Header extends React.Component {
   render() {
     return (
       <>
-      <h1>Odometer with React</h1>
+      <h1>{this.props.greeting}</h1>
       <p>some lorem ipsum</p>
       </>
     )
