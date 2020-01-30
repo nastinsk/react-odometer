@@ -5,12 +5,14 @@ import Header from './Header';
 import Odometer from './Odometer';
 
 
+
 function App() {
   return (
     <div className="App">
-      <Header />
+      <Header greeting = "Welcome" />
       <Odometer />
       <Footer />
+      
 
     </div>
   );
