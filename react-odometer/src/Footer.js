@@ -9,7 +9,7 @@ class Footer extends React.Component {
     return (
       <>
       <h3>This is Footer</h3>
-      <p>More info</p>
+      <p>Contact {this.props.trademark} Team</p>
       </>
     )
   }
