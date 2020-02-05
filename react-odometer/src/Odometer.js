@@ -25,6 +25,7 @@ class Odometer extends React.Component {
    let odometer_val2 = this.state.score.toString().padStart(4, "0");
 
    this.setState({
+    score: this.state.score, 
     odometer_val: odometer_val2
   })
 
