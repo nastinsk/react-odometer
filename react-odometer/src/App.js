@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Header greeting = "Welcome" />
       <Odometer />
-      <Footer />
+      <Footer trademark = "Odometer"/>
       
 
     </div>
