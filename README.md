@@ -6,6 +6,7 @@ An odometer displayed with 4 digits
 Pad with zeroes as needed (e.g. 0045)
 Roll over when odometer value exceeds 9999
 Odometer should remain at zero when decrementing below zero.
+Add buttons to increment/decrement the ones place, the tens, the hundeds place and the thousands place.
 
 
 ## Architecture
@@ -15,8 +16,6 @@ Odometer should remain at zero when decrementing below zero.
 * npm
 
 
-JavaScript has a method for this. Research as needed.
-Add buttons to increment/decrement the ones place, the tens, the hundeds place and the thousands place.
 
 
 ## Components
